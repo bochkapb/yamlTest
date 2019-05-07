@@ -1,0 +1,129 @@
+---
+rootOrg:
+  name : Dream
+  departments:
+      - name: Department 1
+        employees:
+          - name: Ольга
+            position: accountant
+            salary: 100000
+            age: 33
+          - name: Ольга
+            position: accountant
+            salary: 100000
+            age: 33
+          - name: Ольга
+            position: accountant
+            salary: 100000
+            age: 33
+          - name: Ольга
+            position: accountant
+            salary: 100000
+            age: 33
+          - name: Дмитрий
+            salary: 100000
+            age: 33
+          - name: Дмитрий
+            salary: 100000
+            age: 33
+          - name: Дмитрий
+            salary: 100000
+            age: 33
+          - name: Дмитрий
+            salary: 100000
+            age: 33
+          - name: Иван
+            salary: 100000
+            age: 33
+          - name: Иван
+            salary: 100000
+            age: 33
+      - name: Department 2
+        employees:
+          - name: Роман
+            position: lawyer
+            age: 20
+            salary: 60000
+          - name: Роман
+            position: lawyer
+            age: 22
+            salary: 60000
+          - name: Роман
+            position: lawyer
+            age: 25
+            salary: 60000
+          - name: Роман
+            position: lawyer
+            age: 29
+            salary: 60000
+          - name: Максим
+            position: driver
+            age: 24
+            salary: 60000
+          - name: Максим
+            position: driver
+            age: 28
+            salary: 60000
+      - name: Department 3
+        employees:
+          - name: Ольга
+            position: lawyer
+            salary: 60000
+            age: 33
+          - name: Иван
+            position: builder
+            salary: 60000
+            age: 32
+          - name: Николай
+            position: builder
+            salary: 60000
+            age: 25
+      - name: Department 4 and Department 5
+        employees:
+          - name: Юля
+            position: clerk
+            age: 31
+            salary: 80000
+          - name: Юля
+            position: clerk
+            age: 32
+            salary: 80000
+          - name: Юля
+            position: clerk
+            age: 32
+            salary: 80000
+          - name: Юля
+            position: clerk
+            age: 33
+            salary: 80000
+          - name: Юля
+            position: clerk
+            age: 31
+            salary: 80000
+          - name: Олег
+            age: 61
+            salary: 80000
+          - name: Олег
+            age: 61
+            salary: 80000
+          - name: Олег
+            age: 61
+            salary: 80000
+          - name: Олег
+            age: 61
+            salary: 80000
+      - name: Department 6
+        employees:
+          - name: Игорь Викторович
+            position: security director
+            age: 58
+            salary: 60000
+          - name: Борис
+            age: 20
+            salary: 60000
+          - name: Борис
+            age: 20
+            salary: 60000
+          - name: Борис
+            age: 20
+            salary: 60000
